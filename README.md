@@ -12,6 +12,12 @@ Thomas LEMAIRE - SEE4
 Pierre Bouillot - MT4
 Thomas COSTA - MT4
 Riwan D'HERVAIS - MT4
+Duy DANG - IATIC4
+Imane Laasri - IATIC4
+Ali Drissi - IATIC4
+Ilias BENMANSOUR - IATIC4
+El Mehdi ABID - IATIC4
+
 
     Spécifications technique :
     Matériel à utiliser 
